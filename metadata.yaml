@@ -1,0 +1,6 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/variables/ga4-ecommerce-no-persistence/"
+versions:
+  # Latest version
+  - sha: b47dfa3e7fb5e76514a5a6da8906c3c5e49bedd5
+    changeNotes: Initial release.
